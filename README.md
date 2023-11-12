@@ -11,8 +11,8 @@ Esta API permite aos usuários enviar e receber mensagens em tempo real utilizan
 Clone o repositório e instale as dependências.
 
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
-cd [NOME_DO_SEU_REPOSITORIO]
+git clone https://github.com/dev-edufreitas/LaravelWebSocketAPI.git
+cd LaravelWebSocketAPI
 composer install
 ```
 Configure o ambiente copiando o arquivo .env.example para .env e gerando uma chave para a aplicação.
